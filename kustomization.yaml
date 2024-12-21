@@ -1,0 +1,6 @@
+namespace: postgres
+
+resources:
+  - namespace.yaml
+  - postgres.yaml
+  - pg-admin.yaml
